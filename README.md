@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](images/header.png "Header")](https://martinheinz.dev/)
+[![Header](images/header.png "Header")](https://lbragile.herokuapp.com/)
 
 # Hey there! <img src="https://i.imgur.com/L1NxDZ2.gif" width="30px">
 
@@ -25,8 +25,8 @@ My name is Lior Bragilevsky and I am a self taught full stack developer that is 
 
 ## GitHub Stats &#x1f4c8;
 
-<a href="https://github.com/lbragile/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lbragile&count_private=true&show_icons=true&custom_title=Lior's%20GitHub%20Statistics&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Statistics"/></a><a href="https://github.com/lbragile/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbragile&langs_count=3&exclude_repo=chessCAMO&custom_title=Lior's%20Top%20Languages&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Top Languages"/></a>
-<a href="https://github.com/lbragile/TabMerger"><img align="center"   src="https://github-readme-stats.vercel.app/api/pin/?username=lbragile&repo=TabMerger&show_owner=true&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="TabMerger"/></a><a href="https://github.com/lbragile/chessCAMO"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=lbragile&repo=chessCAMO&show_owner=true&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="chessCAMO"/></a>
+<a href="https://lbragile.herokuapp.com/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lbragile&count_private=true&show_icons=true&custom_title=Lior's%20GitHub%20Statistics&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&line_height=27" alt="GitHub Statistics"/></a><a href="https://github.com/lbragile/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbragile&langs_count=3&exclude_repo=chessCAMO&custom_title=Lior's%20Top%20Languages&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Top Languages"/></a>
+<a href="https://lbragile.herokuapp.com/"><img align="center"   src="https://github-readme-stats.vercel.app/api/pin/?username=lbragile&repo=TabMerger&show_owner=true&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="TabMerger"/></a><a href="https://github.com/lbragile/chessCAMO"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=lbragile&repo=chessCAMO&show_owner=true&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="chessCAMO"/></a>
 <a href="https://github.com/lbragile/LogInPlay"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=lbragile&repo=LogInPlay&show_owner=true&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="LogInPlay"/></a><a href="https://github.com/lbragile/ChatIn"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lbragile&repo=ChatIn&show_owner=true&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="ChatIn"/></a>
 <a href="https://github.com/lbragile/SimplifyCOVID"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=lbragile&repo=SimplifyCOVID&show_owner=true&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="SimplifyCOVID"/></a><a href="https://github.com/lbragile/Portfolio"><img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=lbragile&repo=Portfolio&show_owner=true&theme=dark&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Portfolio"/></a>
 
@@ -34,7 +34,7 @@ My name is Lior Bragilevsky and I am a self taught full stack developer that is 
 
 I am currently working on my cross-browser extension - <a href="https://github.com/lbragile/TabMerger">**TabMerger**</a> - which as the name suggests merges all of your non-active tabs into one location to save memory usage on your machine and increase your productivity. This is useful for users of any level as nobody likes having a messy clutter from too many tabs being open.
 
-<a href="https://microsoftedge.microsoft.com/addons/detail/tabmerger/eogjdfjemlgmbblgkjlcgdehbeoodbfn">Video Demo</a> | <a href="https://microsoftedge.microsoft.com/addons/detail/tabmerger/eogjdfjemlgmbblgkjlcgdehbeoodbfn">Homepage Site</a>
+## Video Demo & Homepage 👉 <a href="https://youtu.be/zkI0T-GzmzQ"><img src="./images/youtube.png" alt="Video Demo"/></a> <a href="https://tabmerger.herokuapp.com/"><img src="./images/tabmerger.png" alt="Homepage Site"/></a>
 
 <a href="https://github.com/lbragile/TabMerger"><img src="https://i.imgur.com/gVmsvKp.png"/></a>
 
@@ -42,11 +42,11 @@ I could never imagine that TabMerger would have over **350 users** across **3 di
 
 Any contribution you make is greatly appreciated. A good starting point would be to visit TabMerger's <a href="https://github.com/lbragile/TabMerger/projects/1">Todo Page</a>. TabMerger currently has **24** stars on GitHub 😊 and the community around it is quickly growing.
 
-**Available on:** <a href="https://chrome.google.com/webstore/detail/tabmerger/inmiajapbpafmhjleiebcamfhkfnlgoc">Chrome</a> | <a href="https://addons.mozilla.org/en-CA/firefox/addon/tabmerger/">Firefox</a> | <a href="https://microsoftedge.microsoft.com/addons/detail/tabmerger/eogjdfjemlgmbblgkjlcgdehbeoodbfn">Edge</a>
+**Available on:** <a href="https://chrome.google.com/webstore/detail/tabmerger/inmiajapbpafmhjleiebcamfhkfnlgoc"><img src="./images/chrome.png" alt="Chrome"/></a> <a href="https://addons.mozilla.org/en-CA/firefox/addon/tabmerger/"><img src="./images/firefox.png" alt="Firefox"/></a> <a href="https://microsoftedge.microsoft.com/addons/detail/tabmerger/eogjdfjemlgmbblgkjlcgdehbeoodbfn"><img src="./images/edge.png" alt="Edge"/></a>
 
 ## How To Reach Me 📫
 
-[![StackOverflow][1.1]][1] [![Reddit][2.1]][2] [![GitHub][3.1]][3] [![LinkedIn][4.1]][4] [![Email][5.1]][5].
+[![StackOverflow][1.1]][1] [![Reddit][2.1]][2] [![GitHub][3.1]][3] [![LinkedIn][4.1]][4] [![Email][5.1]][5]
 
 You can ask me anything you want, from collaborations on projects to help with a topic that you are currently stuck on - nothing is off limits.
 
