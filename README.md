@@ -16,6 +16,7 @@ My name is Lior Bragilevsky and I am a self taught Full Stack Developer & DevOps
 [![TabMerger][TabMerger]](https://github.com/lbragile/TabMerger)
 [![chessCAMO][chessCAMO]](https://github.com/lbragile/chessCAMO)
 [![LogInPlay][LogInPlay]](https://github.com/lbragile/LogInPlay)
+[![ChatIn][ChatIn]](https://github.com/lbragile/ChatIn)
 [![SimplifyCOVID][SimplifyCOVID]](https://github.com/lbragile/SimplifyCOVID)
 [![Portfolio][Portfolio]](https://github.com/lbragile/Portfolio)
 
