@@ -1,12 +1,6 @@
-[![Header](images/header.png "Header")](https://www.github.com/lbragile/)
+# Hey there!
 
-# Hey there! ![Waving Hand](./images/wavingHand.gif)
-
-My name is Lior Bragilevsky and I am a self taught Full Stack Developer & DevOps Engineer that is always up to the challenge. I have firm goals to learn new things daily. My daily routine revolves around full stack projects that are of interest to me/for clients, play logical games like chess, workout, and hang out with friends.
-
-## Technologies Used 🔧
-
-![Windows OS][Windows] ![VS Code][VS Code] ![Javascript][Javascript] ![React][React] ![HTML][HTML] ![CSS][CSS] ![Bootstrap][Bootstrap] ![Python][Python] ![C++][C++] ![Git][Git] ![YMAL][YMAL] ![CI][CI] ![Make][Make] ![PostgreSQL][PostgreSQL] ![MongoDB][MongoDB] ![Heroku][Heroku]
+My name is Lior Bragilevsky and I am a self taught Software Development Engineer that is always up to the challenge. I have firm goals to learn new things daily. My daily routine revolves around full stack projects that are of interest to me/for clients, play logical games like chess, workout, and hang out with friends.
 
 ## GitHub Stats &#x1f4c8;
 
@@ -15,37 +9,12 @@ My name is Lior Bragilevsky and I am a self taught Full Stack Developer & DevOps
 
 [![TabMerger][TabMerger]](https://github.com/lbragile/TabMerger)
 [![chessCAMO][chessCAMO]](https://github.com/lbragile/chessCAMO)
-[![LogInPlay][LogInPlay]](https://github.com/lbragile/LogInPlay)
-[![ChatIn][ChatIn]](https://github.com/lbragile/ChatIn)
-[![SimplifyCOVID][SimplifyCOVID]](https://github.com/lbragile/SimplifyCOVID)
-[![Portfolio][Portfolio]](https://github.com/lbragile/Portfolio)
-
-
-## Current Endeavor 🔭
-
-I am currently working on my cross-browser extension - [TabMerger](https://github.com/lbragile/TabMerger) - which as the name suggests merges all of your non-active tabs into one location to save memory usage on your machine and increase your productivity. This is useful for users of any level as nobody likes having a messy clutter from too many tabs being open.
-
-## Video Demo & Homepage 👉 [![Video Demo](./images/youtube.png)](https://youtu.be/zkI0T-GzmzQ) [![Homepage Site](./images/tabmerger.png)](https://lbragile.github.io/TabMerger-Extension/)
-
-
-[![TabMerger](./images/merging.png)](https://github.com/lbragile/TabMerger)
-
-I could never imagine that TabMerger would have over **600 users** across **3 different browsers** with an almost flawless **5/5** ⭐ record from almost **25** reviews. The support and suggestions from the community have been amazing throughout this past couple of months, which is why I decided to make TabMerger open source. I hope that my code is readable & understandable enough for you to contribute. You can also discuss ideas that you have regarding TabMerger here.
-
-Any contribution you make is greatly appreciated. A good starting point would be to visit TabMerger's [Todo Page](https://github.com/lbragile/TabMerger/projects/1). TabMerger currently has **62** stars on GitHub 😊 and the community around it is quickly growing.
-
-**Available on:** 
-[![Chrome](./images/chrome.png)](https://chrome.google.com/webstore/detail/tabmerger/inmiajapbpafmhjleiebcamfhkfnlgoc) [![Firefox](./images/firefox.png)](https://addons.mozilla.org/en-CA/firefox/addon/tabmerger) [![Edge](./images/edge.png)](ttps://microsoftedge.microsoft.com/addons/detail/tabmerger/eogjdfjemlgmbblgkjlcgdehbeoodbfn)
 
 ## How To Reach Me 📫
 
 [![StackOverflow][1.1]][1] [![Reddit][2.1]][2] [![GitHub][3.1]][3] [![LinkedIn][4.1]][4] [![Email][5.1]][5]
 
 You can ask me anything you want, from collaborations on projects to help with a topic that you are currently stuck on - nothing is off limits.
-
-## Fun Fact(s) ⚡
-
-I also speak Russian and am a master in Chess 😁
 
 <!-- icons without padding -->
 
